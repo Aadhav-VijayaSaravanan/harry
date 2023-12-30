@@ -20,7 +20,7 @@ The program follows these steps:
 
 1. Takes a space-separated sequence as input.
 2. Checks if the sequence has at least three elements. If not, it prints an error message and exits.
-3. Calculates differences between consecutive elements (diff1 and diff2).
+3. Calculates differences between consecutive elements.
 4. If the differences are equal, it identifies the sequence as an arithmetic sequence.
 5. If not, it checks for a geometric sequence by comparing ratios of consecutive elements.
 6. If neither arithmetic nor geometric sequence is detected, it prints a corresponding message.
