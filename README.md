@@ -1,6 +1,6 @@
 # harry
 
-The `harry` program analyzes a sequence to determine whether it is an arithmetic sequence, a geometric sequence, or neither.
+This program checks if a given sequence is arithmetic or geometric, and outputs the nth term formula for it.
 
 ## Usage
 
